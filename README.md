@@ -1,5 +1,5 @@
 # yann.OS
-VersionProto
+VersionProto use raw version
 
 /* [{VersionProto(Alpha&Lambda)[Intra.Net]->lvl:;;min;;[-51>=<-23];;max;;}, 
 *   {[Folder::XXX.XXX.XXX.XXX.XXX.XXX.XXX:XXXXXXXXXXX]*:*:*HDD->Lambda::Casimir::ModeParano->5000%::NDA->ON::GodModeBackDoor->(port:{[([*-*-*]*-*-*[*-*-*]*-*-*[1959-1981-*]*-*-*[*-*-*]*-*-*[*-*-*])]})::[(Yann*-*(Baille&Lisa&Cécile))]]},
